@@ -1,0 +1,35 @@
+# Gerador de Tabela de Multiplicação
+
+Este projeto é um simples script em Python que gera a tabela de multiplicação para um número fornecido pelo usuário. É uma excelente prática para iniciantes que desejam entender loops `for` e manipulação de strings em Python.
+
+## Descrição
+
+O script solicita ao usuário que insira um número, em seguida, gera e exibe a tabela de multiplicação para esse número, de 1 a 10.
+
+### Como funciona:
+
+1. O usuário é solicitado a digitar um número.
+2. Um loop `for` percorre os valores de 1 a 10.
+3. Em cada iteração, o script calcula o produto do número digitado pelo valor do loop atual.
+4. O resultado é exibido no formato de uma tabela de multiplicação.
+
+## Requisitos
+
+- Python 3.x deve estar instalado.
+
+## Como executar
+
+1. Clone este repositório:
+
+   ```bater
+   git clone https://github.com/Cristina1607/Tabela_de_Multiplicacao.git
+2. Navegue até o diretório do projeto:
+cd adivinhe-o-numero
+3. Execute o script Python:
+python Tabela_de_Multiplicacao.py
+
+Requisitos
+Python 3.x
+
+Licença
+Este projeto está licenciado sob a MIT License.

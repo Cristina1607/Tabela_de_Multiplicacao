@@ -1,0 +1,22 @@
+```plaintext
+# Ignorar arquivos compilados em Python
+__pycache__/
+
+# Ignorar ambientes virtuais
+env/
+.venv/
+
+# Ignorar arquivos de configuração de editores
+.vscode/
+.idea/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+Enunciado
+Desenvolva um script em Python que gere uma tabela de multiplicação para um número inserido pelo usuário. O script deve seguir os passos abaixo:
+
+1. Solicitar ao usuário que insira um número inteiro.
+2. Utilizar um loop for para gerar a tabela de multiplicação desse número, de 1 a 10.
+3. Exibir cada linha da tabela no formato numero x i = resultado, onde numero é o número inserido e i é o índice do loop.

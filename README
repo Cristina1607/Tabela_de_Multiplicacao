@@ -28,8 +28,5 @@ cd adivinhe-o-numero
 3. Execute o script Python:
 python Tabela_de_Multiplicacao.py
 
-Requisitos
-Python 3.x
-
 Licença
 Este projeto está licenciado sob a MIT License.
